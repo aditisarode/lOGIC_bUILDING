@@ -2,7 +2,8 @@
 
 #include<stdio.h>
 
-int main(){
+int main()
+{
     printf("Jay Ganesh..\n");
     printf("Jay Ganesh..\n");
     printf("Jay Ganesh..\n");

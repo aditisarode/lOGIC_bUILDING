@@ -1,4 +1,4 @@
-// Objective->to implement the odd even logic with the help of void function
+// Objective-> to implement the odd even logic with the help of void function
 
 #include<stdio.h>
 
@@ -24,6 +24,6 @@ int main()
     scanf("%d",&ivalue);
 
     checkevenodd(ivalue);
-    
+
     return 0;
 }
